@@ -20,7 +20,7 @@ public class RegisterAccountPage extends BasePage{
 
     By ContinueBtn =By.xpath("//button[normalize-space()='Continue']");
 
-    By confirmsg =By.xpath("");
+    By confirmsg =By.xpath("//h1[normalize-space()='Your Account Has Been Created!']");
 
     //ActionMethods
 
